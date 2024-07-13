@@ -1,0 +1,49 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"Assignment8/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "glew::@8f795ff132b8f81d6c99"
+		},
+		{
+			"id" : "glfw::@0a01a371eafc1f5bb80a"
+		},
+		{
+			"id" : "ropesim::@5c2da24ab43ff807f18f"
+		},
+		{
+			"id" : "CGL::@791c578464c3692b063c"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "CMakePredefinedTargets"
+	},
+	"id" : "ALL_BUILD::@ca61c067f533d31fef63",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : "Assignment8",
+		"source" : "Assignment8"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,2916 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1,
+						23
+					]
+				},
+				{
+					"build" : "freetype",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-freetype-Debug-919cbce5b4937880f79a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "freetype",
+					"targetIndexes" : 
+					[
+						0,
+						24
+					]
+				},
+				{
+					"build" : "Assignment0",
+					"jsonFile" : "directory-Assignment0-Debug-967b45b0026a721e4a30.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Assignment0",
+					"targetIndexes" : 
+					[
+						9,
+						22
+					]
+				},
+				{
+					"build" : "Assignment1",
+					"jsonFile" : "directory-Assignment1-Debug-9269bd079fcb7911020b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "Assignment1",
+					"targetIndexes" : 
+					[
+						13,
+						16
+					]
+				},
+				{
+					"build" : "Assignment2",
+					"jsonFile" : "directory-Assignment2-Debug-78a0219a360c5239f8d2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "Assignment2",
+					"targetIndexes" : 
+					[
+						4,
+						17
+					]
+				},
+				{
+					"build" : "Assignment3",
+					"jsonFile" : "directory-Assignment3-Debug-97b9251901a70e9ca180.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "Assignment3",
+					"targetIndexes" : 
+					[
+						8,
+						18
+					]
+				},
+				{
+					"build" : "Assignment4",
+					"jsonFile" : "directory-Assignment4-Debug-c66387f3376ca39f81ae.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "Assignment4",
+					"targetIndexes" : 
+					[
+						3,
+						14
+					]
+				},
+				{
+					"build" : "Assignment5",
+					"jsonFile" : "directory-Assignment5-Debug-e9e50b9674842dc6b263.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 7,
+					"source" : "Assignment5",
+					"targetIndexes" : 
+					[
+						10,
+						19
+					]
+				},
+				{
+					"build" : "Assignment6",
+					"jsonFile" : "directory-Assignment6-Debug-c941f5fee0becfb096cf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 8,
+					"source" : "Assignment6",
+					"targetIndexes" : 
+					[
+						12,
+						20
+					]
+				},
+				{
+					"build" : "Assignment7",
+					"jsonFile" : "directory-Assignment7-Debug-84afb896c533b128cb0b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 9,
+					"source" : "Assignment7",
+					"targetIndexes" : 
+					[
+						7,
+						21
+					]
+				},
+				{
+					"build" : "Assignment8",
+					"childIndexes" : 
+					[
+						11,
+						16
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8-Debug-36b6ada4637e6611666b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 10,
+					"source" : "Assignment8",
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"build" : "Assignment8/CGL",
+					"childIndexes" : 
+					[
+						12,
+						13,
+						15
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.CGL-Debug-48b55576718393d634a4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 11,
+					"source" : "Assignment8/CGL",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "Assignment8/CGL/deps/glew",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.CGL.deps.glew-Debug-c28e3bfd626ca71421e1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 12,
+					"source" : "Assignment8/CGL/deps/glew",
+					"targetIndexes" : 
+					[
+						5,
+						25
+					]
+				},
+				{
+					"build" : "Assignment8/CGL/deps/glfw",
+					"childIndexes" : 
+					[
+						14
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.CGL.deps.glfw-Debug-4433cd4ba0aa2d8cfc62.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.9"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 13,
+					"source" : "Assignment8/CGL/deps/glfw",
+					"targetIndexes" : 
+					[
+						2,
+						28
+					]
+				},
+				{
+					"build" : "Assignment8/CGL/deps/glfw/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.CGL.deps.glfw.src-Debug-af134f0c852a338f4765.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 13,
+					"projectIndex" : 13,
+					"source" : "Assignment8/CGL/deps/glfw/src",
+					"targetIndexes" : 
+					[
+						26
+					]
+				},
+				{
+					"build" : "Assignment8/CGL/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.CGL.src-Debug-cc0c7aa55c40aaebd58c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 11,
+					"source" : "Assignment8/CGL/src",
+					"targetIndexes" : 
+					[
+						15
+					]
+				},
+				{
+					"build" : "Assignment8/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.src-Debug-0e0e0b5f4c3ed64e6204.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 10,
+					"source" : "Assignment8/src",
+					"targetIndexes" : 
+					[
+						27
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Games101",
+					"targetIndexes" : 
+					[
+						1,
+						23
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "freetype",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						24
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "Transformation",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						9,
+						22
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "Rasterizer1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						13,
+						16
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "Rasterizer2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4,
+						17
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "Rasterizer3",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						8,
+						18
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "BezierCurve",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						14
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "RayTracing1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						10,
+						19
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "RayTracing2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						12,
+						20
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "RayTracing3",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						7,
+						21
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						11
+					],
+					"directoryIndexes" : 
+					[
+						10,
+						16
+					],
+					"name" : "RopeSim",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						11,
+						27
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						12,
+						13
+					],
+					"directoryIndexes" : 
+					[
+						11,
+						15
+					],
+					"name" : "CGL",
+					"parentIndex" : 10,
+					"targetIndexes" : 
+					[
+						6,
+						15
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						12
+					],
+					"name" : "glew",
+					"parentIndex" : 11,
+					"targetIndexes" : 
+					[
+						5,
+						25
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13,
+						14
+					],
+					"name" : "GLFW",
+					"parentIndex" : 11,
+					"targetIndexes" : 
+					[
+						2,
+						26,
+						28
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "ALL_BUILD::@96957e95d729942f8bb0",
+					"jsonFile" : "target-ALL_BUILD-Debug-cc9c07cdcc75dfb81eed.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-a0e8e67a68b775363002.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "ALL_BUILD::@15f1483fd884ddc71dbd",
+					"jsonFile" : "target-ALL_BUILD-Debug-ad0bb37ac12f2a494c1f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 13
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "ALL_BUILD::@4cf95c8d6059de0fc837",
+					"jsonFile" : "target-ALL_BUILD-Debug-df82227d37fd8c43be42.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "ALL_BUILD::@af5df8d6262920e7d234",
+					"jsonFile" : "target-ALL_BUILD-Debug-f7685f707b179e488925.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "ALL_BUILD::@8f795ff132b8f81d6c99",
+					"jsonFile" : "target-ALL_BUILD-Debug-d3b6e2f722a4dd372596.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 12
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "ALL_BUILD::@6d018863f3863b41f114",
+					"jsonFile" : "target-ALL_BUILD-Debug-1c096288be9f7a02d6bc.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "ALL_BUILD::@829c8a79ce8809851e3d",
+					"jsonFile" : "target-ALL_BUILD-Debug-e8b99386b30f0b0cdf23.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "ALL_BUILD::@8c63d4c1d42d4c691fdc",
+					"jsonFile" : "target-ALL_BUILD-Debug-e59e7083c343a7dec11f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ALL_BUILD::@cac8ab63442c545d7ac7",
+					"jsonFile" : "target-ALL_BUILD-Debug-809c8570dcfc08512fd7.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "ALL_BUILD::@6ca6ba7ac026d5e92a0d",
+					"jsonFile" : "target-ALL_BUILD-Debug-bd6c44cb4912017b6c9a.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "ALL_BUILD::@ca61c067f533d31fef63",
+					"jsonFile" : "target-ALL_BUILD-Debug-020a7fb7e72588eb7d32.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "ALL_BUILD::@869b79c6929d0d0d4c16",
+					"jsonFile" : "target-ALL_BUILD-Debug-d30313f9e85131671ef6.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ALL_BUILD::@9553da6de54d38b36d29",
+					"jsonFile" : "target-ALL_BUILD-Debug-78f5c8931fc00e15063d.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "BezierCurve::@4cf95c8d6059de0fc837",
+					"jsonFile" : "target-BezierCurve-Debug-73022b4e1030e6247a26.json",
+					"name" : "BezierCurve",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "CGL::@791c578464c3692b063c",
+					"jsonFile" : "target-CGL-Debug-91236edf65f20ec66f71.json",
+					"name" : "CGL",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Rasterizer1::@9553da6de54d38b36d29",
+					"jsonFile" : "target-Rasterizer1-Debug-fc4a9a7a085e000393b9.json",
+					"name" : "Rasterizer1",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Rasterizer2::@af5df8d6262920e7d234",
+					"jsonFile" : "target-Rasterizer2-Debug-bcbff9bfc8089253232d.json",
+					"name" : "Rasterizer2",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Rasterizer3::@8c63d4c1d42d4c691fdc",
+					"jsonFile" : "target-Rasterizer3-Debug-728c855c5c7fd57058f5.json",
+					"name" : "Rasterizer3",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "RayTracing1::@6ca6ba7ac026d5e92a0d",
+					"jsonFile" : "target-RayTracing1-Debug-6dce1f813d8d18a3363e.json",
+					"name" : "RayTracing1",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "RayTracing2::@869b79c6929d0d0d4c16",
+					"jsonFile" : "target-RayTracing2-Debug-ada355c0b894739deede.json",
+					"name" : "RayTracing2",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "RayTracing3::@829c8a79ce8809851e3d",
+					"jsonFile" : "target-RayTracing3-Debug-6dfb2ef7c3dbc3922c79.json",
+					"name" : "RayTracing3",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Transformation::@cac8ab63442c545d7ac7",
+					"jsonFile" : "target-Transformation-Debug-7db2b81414cbc9b296db.json",
+					"name" : "Transformation",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-21ef64d65ec82f8ae037.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "freetype::@96957e95d729942f8bb0",
+					"jsonFile" : "target-freetype-Debug-7cf54ed625040a9eb1ee.json",
+					"name" : "freetype",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "glew::@8f795ff132b8f81d6c99",
+					"jsonFile" : "target-glew-Debug-f31e5e5dc753413ab966.json",
+					"name" : "glew",
+					"projectIndex" : 12
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "glfw::@0a01a371eafc1f5bb80a",
+					"jsonFile" : "target-glfw-Debug-a0c9437c4e5be9d061a7.json",
+					"name" : "glfw",
+					"projectIndex" : 13
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "ropesim::@5c2da24ab43ff807f18f",
+					"jsonFile" : "target-ropesim-Debug-0dcb1baff3432ca40b47.json",
+					"name" : "ropesim",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "uninstall::@15f1483fd884ddc71dbd",
+					"jsonFile" : "target-uninstall-Debug-9947b8ff7e28cda9604a.json",
+					"name" : "uninstall",
+					"projectIndex" : 13
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1,
+						23
+					]
+				},
+				{
+					"build" : "freetype",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-freetype-Release-4917959df182f6f60633.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "freetype",
+					"targetIndexes" : 
+					[
+						0,
+						24
+					]
+				},
+				{
+					"build" : "Assignment0",
+					"jsonFile" : "directory-Assignment0-Release-967b45b0026a721e4a30.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Assignment0",
+					"targetIndexes" : 
+					[
+						9,
+						22
+					]
+				},
+				{
+					"build" : "Assignment1",
+					"jsonFile" : "directory-Assignment1-Release-9269bd079fcb7911020b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "Assignment1",
+					"targetIndexes" : 
+					[
+						13,
+						16
+					]
+				},
+				{
+					"build" : "Assignment2",
+					"jsonFile" : "directory-Assignment2-Release-78a0219a360c5239f8d2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "Assignment2",
+					"targetIndexes" : 
+					[
+						4,
+						17
+					]
+				},
+				{
+					"build" : "Assignment3",
+					"jsonFile" : "directory-Assignment3-Release-97b9251901a70e9ca180.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "Assignment3",
+					"targetIndexes" : 
+					[
+						8,
+						18
+					]
+				},
+				{
+					"build" : "Assignment4",
+					"jsonFile" : "directory-Assignment4-Release-c66387f3376ca39f81ae.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "Assignment4",
+					"targetIndexes" : 
+					[
+						3,
+						14
+					]
+				},
+				{
+					"build" : "Assignment5",
+					"jsonFile" : "directory-Assignment5-Release-e9e50b9674842dc6b263.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 7,
+					"source" : "Assignment5",
+					"targetIndexes" : 
+					[
+						10,
+						19
+					]
+				},
+				{
+					"build" : "Assignment6",
+					"jsonFile" : "directory-Assignment6-Release-c941f5fee0becfb096cf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 8,
+					"source" : "Assignment6",
+					"targetIndexes" : 
+					[
+						12,
+						20
+					]
+				},
+				{
+					"build" : "Assignment7",
+					"jsonFile" : "directory-Assignment7-Release-84afb896c533b128cb0b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 9,
+					"source" : "Assignment7",
+					"targetIndexes" : 
+					[
+						7,
+						21
+					]
+				},
+				{
+					"build" : "Assignment8",
+					"childIndexes" : 
+					[
+						11,
+						16
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8-Release-36b6ada4637e6611666b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 10,
+					"source" : "Assignment8",
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"build" : "Assignment8/CGL",
+					"childIndexes" : 
+					[
+						12,
+						13,
+						15
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.CGL-Release-48b55576718393d634a4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 11,
+					"source" : "Assignment8/CGL",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "Assignment8/CGL/deps/glew",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.CGL.deps.glew-Release-42acb127db6cae8258b9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 12,
+					"source" : "Assignment8/CGL/deps/glew",
+					"targetIndexes" : 
+					[
+						5,
+						25
+					]
+				},
+				{
+					"build" : "Assignment8/CGL/deps/glfw",
+					"childIndexes" : 
+					[
+						14
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.CGL.deps.glfw-Release-4433cd4ba0aa2d8cfc62.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.9"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 13,
+					"source" : "Assignment8/CGL/deps/glfw",
+					"targetIndexes" : 
+					[
+						2,
+						28
+					]
+				},
+				{
+					"build" : "Assignment8/CGL/deps/glfw/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.CGL.deps.glfw.src-Release-43b9ae9fc446196be8bf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 13,
+					"projectIndex" : 13,
+					"source" : "Assignment8/CGL/deps/glfw/src",
+					"targetIndexes" : 
+					[
+						26
+					]
+				},
+				{
+					"build" : "Assignment8/CGL/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.CGL.src-Release-007367d0488934d58ae6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 11,
+					"source" : "Assignment8/CGL/src",
+					"targetIndexes" : 
+					[
+						15
+					]
+				},
+				{
+					"build" : "Assignment8/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.src-Release-99e436b279744bcc6721.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 10,
+					"source" : "Assignment8/src",
+					"targetIndexes" : 
+					[
+						27
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Games101",
+					"targetIndexes" : 
+					[
+						1,
+						23
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "freetype",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						24
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "Transformation",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						9,
+						22
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "Rasterizer1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						13,
+						16
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "Rasterizer2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4,
+						17
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "Rasterizer3",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						8,
+						18
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "BezierCurve",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						14
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "RayTracing1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						10,
+						19
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "RayTracing2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						12,
+						20
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "RayTracing3",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						7,
+						21
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						11
+					],
+					"directoryIndexes" : 
+					[
+						10,
+						16
+					],
+					"name" : "RopeSim",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						11,
+						27
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						12,
+						13
+					],
+					"directoryIndexes" : 
+					[
+						11,
+						15
+					],
+					"name" : "CGL",
+					"parentIndex" : 10,
+					"targetIndexes" : 
+					[
+						6,
+						15
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						12
+					],
+					"name" : "glew",
+					"parentIndex" : 11,
+					"targetIndexes" : 
+					[
+						5,
+						25
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13,
+						14
+					],
+					"name" : "GLFW",
+					"parentIndex" : 11,
+					"targetIndexes" : 
+					[
+						2,
+						26,
+						28
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "ALL_BUILD::@96957e95d729942f8bb0",
+					"jsonFile" : "target-ALL_BUILD-Release-cc9c07cdcc75dfb81eed.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-a0e8e67a68b775363002.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "ALL_BUILD::@15f1483fd884ddc71dbd",
+					"jsonFile" : "target-ALL_BUILD-Release-ad0bb37ac12f2a494c1f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 13
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "ALL_BUILD::@4cf95c8d6059de0fc837",
+					"jsonFile" : "target-ALL_BUILD-Release-df82227d37fd8c43be42.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "ALL_BUILD::@af5df8d6262920e7d234",
+					"jsonFile" : "target-ALL_BUILD-Release-f7685f707b179e488925.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "ALL_BUILD::@8f795ff132b8f81d6c99",
+					"jsonFile" : "target-ALL_BUILD-Release-d3b6e2f722a4dd372596.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 12
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "ALL_BUILD::@6d018863f3863b41f114",
+					"jsonFile" : "target-ALL_BUILD-Release-1c096288be9f7a02d6bc.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "ALL_BUILD::@829c8a79ce8809851e3d",
+					"jsonFile" : "target-ALL_BUILD-Release-e8b99386b30f0b0cdf23.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "ALL_BUILD::@8c63d4c1d42d4c691fdc",
+					"jsonFile" : "target-ALL_BUILD-Release-e59e7083c343a7dec11f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ALL_BUILD::@cac8ab63442c545d7ac7",
+					"jsonFile" : "target-ALL_BUILD-Release-809c8570dcfc08512fd7.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "ALL_BUILD::@6ca6ba7ac026d5e92a0d",
+					"jsonFile" : "target-ALL_BUILD-Release-bd6c44cb4912017b6c9a.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "ALL_BUILD::@ca61c067f533d31fef63",
+					"jsonFile" : "target-ALL_BUILD-Release-020a7fb7e72588eb7d32.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "ALL_BUILD::@869b79c6929d0d0d4c16",
+					"jsonFile" : "target-ALL_BUILD-Release-d30313f9e85131671ef6.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ALL_BUILD::@9553da6de54d38b36d29",
+					"jsonFile" : "target-ALL_BUILD-Release-78f5c8931fc00e15063d.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "BezierCurve::@4cf95c8d6059de0fc837",
+					"jsonFile" : "target-BezierCurve-Release-1679c93e4fb44504ba92.json",
+					"name" : "BezierCurve",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "CGL::@791c578464c3692b063c",
+					"jsonFile" : "target-CGL-Release-b926190a637f1fef9430.json",
+					"name" : "CGL",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Rasterizer1::@9553da6de54d38b36d29",
+					"jsonFile" : "target-Rasterizer1-Release-a6c9844682ffd7bf886e.json",
+					"name" : "Rasterizer1",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Rasterizer2::@af5df8d6262920e7d234",
+					"jsonFile" : "target-Rasterizer2-Release-662851223d48625e8670.json",
+					"name" : "Rasterizer2",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Rasterizer3::@8c63d4c1d42d4c691fdc",
+					"jsonFile" : "target-Rasterizer3-Release-b857b5f6a62270c15297.json",
+					"name" : "Rasterizer3",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "RayTracing1::@6ca6ba7ac026d5e92a0d",
+					"jsonFile" : "target-RayTracing1-Release-7a191e7b1b2af648d5d9.json",
+					"name" : "RayTracing1",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "RayTracing2::@869b79c6929d0d0d4c16",
+					"jsonFile" : "target-RayTracing2-Release-b2350a765b37e9af9a99.json",
+					"name" : "RayTracing2",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "RayTracing3::@829c8a79ce8809851e3d",
+					"jsonFile" : "target-RayTracing3-Release-f64837b8bbc0f599a82c.json",
+					"name" : "RayTracing3",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Transformation::@cac8ab63442c545d7ac7",
+					"jsonFile" : "target-Transformation-Release-225634b3856a495702c4.json",
+					"name" : "Transformation",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-21ef64d65ec82f8ae037.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "freetype::@96957e95d729942f8bb0",
+					"jsonFile" : "target-freetype-Release-4171575c5a1e6b297af1.json",
+					"name" : "freetype",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "glew::@8f795ff132b8f81d6c99",
+					"jsonFile" : "target-glew-Release-7b4d679ffddc39d50c33.json",
+					"name" : "glew",
+					"projectIndex" : 12
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "glfw::@0a01a371eafc1f5bb80a",
+					"jsonFile" : "target-glfw-Release-5a430d46071f7dc3e90f.json",
+					"name" : "glfw",
+					"projectIndex" : 13
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "ropesim::@5c2da24ab43ff807f18f",
+					"jsonFile" : "target-ropesim-Release-116e29abd875b034ebc5.json",
+					"name" : "ropesim",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "uninstall::@15f1483fd884ddc71dbd",
+					"jsonFile" : "target-uninstall-Release-9947b8ff7e28cda9604a.json",
+					"name" : "uninstall",
+					"projectIndex" : 13
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-MinSizeRel-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1,
+						23
+					]
+				},
+				{
+					"build" : "freetype",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-freetype-MinSizeRel-cdc644b85a30d796d49b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "freetype",
+					"targetIndexes" : 
+					[
+						0,
+						24
+					]
+				},
+				{
+					"build" : "Assignment0",
+					"jsonFile" : "directory-Assignment0-MinSizeRel-967b45b0026a721e4a30.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Assignment0",
+					"targetIndexes" : 
+					[
+						9,
+						22
+					]
+				},
+				{
+					"build" : "Assignment1",
+					"jsonFile" : "directory-Assignment1-MinSizeRel-9269bd079fcb7911020b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "Assignment1",
+					"targetIndexes" : 
+					[
+						13,
+						16
+					]
+				},
+				{
+					"build" : "Assignment2",
+					"jsonFile" : "directory-Assignment2-MinSizeRel-78a0219a360c5239f8d2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "Assignment2",
+					"targetIndexes" : 
+					[
+						4,
+						17
+					]
+				},
+				{
+					"build" : "Assignment3",
+					"jsonFile" : "directory-Assignment3-MinSizeRel-97b9251901a70e9ca180.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "Assignment3",
+					"targetIndexes" : 
+					[
+						8,
+						18
+					]
+				},
+				{
+					"build" : "Assignment4",
+					"jsonFile" : "directory-Assignment4-MinSizeRel-c66387f3376ca39f81ae.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "Assignment4",
+					"targetIndexes" : 
+					[
+						3,
+						14
+					]
+				},
+				{
+					"build" : "Assignment5",
+					"jsonFile" : "directory-Assignment5-MinSizeRel-e9e50b9674842dc6b263.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 7,
+					"source" : "Assignment5",
+					"targetIndexes" : 
+					[
+						10,
+						19
+					]
+				},
+				{
+					"build" : "Assignment6",
+					"jsonFile" : "directory-Assignment6-MinSizeRel-c941f5fee0becfb096cf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 8,
+					"source" : "Assignment6",
+					"targetIndexes" : 
+					[
+						12,
+						20
+					]
+				},
+				{
+					"build" : "Assignment7",
+					"jsonFile" : "directory-Assignment7-MinSizeRel-84afb896c533b128cb0b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 9,
+					"source" : "Assignment7",
+					"targetIndexes" : 
+					[
+						7,
+						21
+					]
+				},
+				{
+					"build" : "Assignment8",
+					"childIndexes" : 
+					[
+						11,
+						16
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8-MinSizeRel-36b6ada4637e6611666b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 10,
+					"source" : "Assignment8",
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"build" : "Assignment8/CGL",
+					"childIndexes" : 
+					[
+						12,
+						13,
+						15
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.CGL-MinSizeRel-48b55576718393d634a4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 11,
+					"source" : "Assignment8/CGL",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "Assignment8/CGL/deps/glew",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.CGL.deps.glew-MinSizeRel-f8753b6c560512aaaae9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 12,
+					"source" : "Assignment8/CGL/deps/glew",
+					"targetIndexes" : 
+					[
+						5,
+						25
+					]
+				},
+				{
+					"build" : "Assignment8/CGL/deps/glfw",
+					"childIndexes" : 
+					[
+						14
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.CGL.deps.glfw-MinSizeRel-4433cd4ba0aa2d8cfc62.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.9"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 13,
+					"source" : "Assignment8/CGL/deps/glfw",
+					"targetIndexes" : 
+					[
+						2,
+						28
+					]
+				},
+				{
+					"build" : "Assignment8/CGL/deps/glfw/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.CGL.deps.glfw.src-MinSizeRel-3b3c1e5afbcc7644d08c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 13,
+					"projectIndex" : 13,
+					"source" : "Assignment8/CGL/deps/glfw/src",
+					"targetIndexes" : 
+					[
+						26
+					]
+				},
+				{
+					"build" : "Assignment8/CGL/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.CGL.src-MinSizeRel-c48578570545b200962c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 11,
+					"source" : "Assignment8/CGL/src",
+					"targetIndexes" : 
+					[
+						15
+					]
+				},
+				{
+					"build" : "Assignment8/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.src-MinSizeRel-4589dc862739a10ff2a8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 10,
+					"source" : "Assignment8/src",
+					"targetIndexes" : 
+					[
+						27
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Games101",
+					"targetIndexes" : 
+					[
+						1,
+						23
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "freetype",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						24
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "Transformation",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						9,
+						22
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "Rasterizer1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						13,
+						16
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "Rasterizer2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4,
+						17
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "Rasterizer3",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						8,
+						18
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "BezierCurve",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						14
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "RayTracing1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						10,
+						19
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "RayTracing2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						12,
+						20
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "RayTracing3",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						7,
+						21
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						11
+					],
+					"directoryIndexes" : 
+					[
+						10,
+						16
+					],
+					"name" : "RopeSim",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						11,
+						27
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						12,
+						13
+					],
+					"directoryIndexes" : 
+					[
+						11,
+						15
+					],
+					"name" : "CGL",
+					"parentIndex" : 10,
+					"targetIndexes" : 
+					[
+						6,
+						15
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						12
+					],
+					"name" : "glew",
+					"parentIndex" : 11,
+					"targetIndexes" : 
+					[
+						5,
+						25
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13,
+						14
+					],
+					"name" : "GLFW",
+					"parentIndex" : 11,
+					"targetIndexes" : 
+					[
+						2,
+						26,
+						28
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "ALL_BUILD::@96957e95d729942f8bb0",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-cc9c07cdcc75dfb81eed.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-a0e8e67a68b775363002.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "ALL_BUILD::@15f1483fd884ddc71dbd",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-ad0bb37ac12f2a494c1f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 13
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "ALL_BUILD::@4cf95c8d6059de0fc837",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-df82227d37fd8c43be42.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "ALL_BUILD::@af5df8d6262920e7d234",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-f7685f707b179e488925.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "ALL_BUILD::@8f795ff132b8f81d6c99",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-d3b6e2f722a4dd372596.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 12
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "ALL_BUILD::@6d018863f3863b41f114",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-1c096288be9f7a02d6bc.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "ALL_BUILD::@829c8a79ce8809851e3d",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-e8b99386b30f0b0cdf23.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "ALL_BUILD::@8c63d4c1d42d4c691fdc",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-e59e7083c343a7dec11f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ALL_BUILD::@cac8ab63442c545d7ac7",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-809c8570dcfc08512fd7.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "ALL_BUILD::@6ca6ba7ac026d5e92a0d",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-bd6c44cb4912017b6c9a.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "ALL_BUILD::@ca61c067f533d31fef63",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-020a7fb7e72588eb7d32.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "ALL_BUILD::@869b79c6929d0d0d4c16",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-d30313f9e85131671ef6.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ALL_BUILD::@9553da6de54d38b36d29",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-78f5c8931fc00e15063d.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "BezierCurve::@4cf95c8d6059de0fc837",
+					"jsonFile" : "target-BezierCurve-MinSizeRel-7fb730a46136656c8bac.json",
+					"name" : "BezierCurve",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "CGL::@791c578464c3692b063c",
+					"jsonFile" : "target-CGL-MinSizeRel-1e83c2a039783366fa2d.json",
+					"name" : "CGL",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Rasterizer1::@9553da6de54d38b36d29",
+					"jsonFile" : "target-Rasterizer1-MinSizeRel-160bb17987875d8d2aa6.json",
+					"name" : "Rasterizer1",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Rasterizer2::@af5df8d6262920e7d234",
+					"jsonFile" : "target-Rasterizer2-MinSizeRel-3275a1591c8465527a13.json",
+					"name" : "Rasterizer2",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Rasterizer3::@8c63d4c1d42d4c691fdc",
+					"jsonFile" : "target-Rasterizer3-MinSizeRel-1deaa4f59017a0a748ba.json",
+					"name" : "Rasterizer3",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "RayTracing1::@6ca6ba7ac026d5e92a0d",
+					"jsonFile" : "target-RayTracing1-MinSizeRel-68d138c2ed8ecaa2c1f8.json",
+					"name" : "RayTracing1",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "RayTracing2::@869b79c6929d0d0d4c16",
+					"jsonFile" : "target-RayTracing2-MinSizeRel-569ffff10ebe3679a07e.json",
+					"name" : "RayTracing2",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "RayTracing3::@829c8a79ce8809851e3d",
+					"jsonFile" : "target-RayTracing3-MinSizeRel-7f1484a1cdb6c0ba4b25.json",
+					"name" : "RayTracing3",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Transformation::@cac8ab63442c545d7ac7",
+					"jsonFile" : "target-Transformation-MinSizeRel-841ceabe8966ca3afdd0.json",
+					"name" : "Transformation",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-21ef64d65ec82f8ae037.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "freetype::@96957e95d729942f8bb0",
+					"jsonFile" : "target-freetype-MinSizeRel-92dfcb2d76b79cdcf734.json",
+					"name" : "freetype",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "glew::@8f795ff132b8f81d6c99",
+					"jsonFile" : "target-glew-MinSizeRel-f376693817d46b65ff22.json",
+					"name" : "glew",
+					"projectIndex" : 12
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "glfw::@0a01a371eafc1f5bb80a",
+					"jsonFile" : "target-glfw-MinSizeRel-abed72dcaa4041897d7a.json",
+					"name" : "glfw",
+					"projectIndex" : 13
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "ropesim::@5c2da24ab43ff807f18f",
+					"jsonFile" : "target-ropesim-MinSizeRel-ac522779cf3d2a8a5e57.json",
+					"name" : "ropesim",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "uninstall::@15f1483fd884ddc71dbd",
+					"jsonFile" : "target-uninstall-MinSizeRel-9947b8ff7e28cda9604a.json",
+					"name" : "uninstall",
+					"projectIndex" : 13
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1,
+						23
+					]
+				},
+				{
+					"build" : "freetype",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-freetype-RelWithDebInfo-b2befa40d43b634afd2d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "freetype",
+					"targetIndexes" : 
+					[
+						0,
+						24
+					]
+				},
+				{
+					"build" : "Assignment0",
+					"jsonFile" : "directory-Assignment0-RelWithDebInfo-967b45b0026a721e4a30.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Assignment0",
+					"targetIndexes" : 
+					[
+						9,
+						22
+					]
+				},
+				{
+					"build" : "Assignment1",
+					"jsonFile" : "directory-Assignment1-RelWithDebInfo-9269bd079fcb7911020b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "Assignment1",
+					"targetIndexes" : 
+					[
+						13,
+						16
+					]
+				},
+				{
+					"build" : "Assignment2",
+					"jsonFile" : "directory-Assignment2-RelWithDebInfo-78a0219a360c5239f8d2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "Assignment2",
+					"targetIndexes" : 
+					[
+						4,
+						17
+					]
+				},
+				{
+					"build" : "Assignment3",
+					"jsonFile" : "directory-Assignment3-RelWithDebInfo-97b9251901a70e9ca180.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "Assignment3",
+					"targetIndexes" : 
+					[
+						8,
+						18
+					]
+				},
+				{
+					"build" : "Assignment4",
+					"jsonFile" : "directory-Assignment4-RelWithDebInfo-c66387f3376ca39f81ae.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "Assignment4",
+					"targetIndexes" : 
+					[
+						3,
+						14
+					]
+				},
+				{
+					"build" : "Assignment5",
+					"jsonFile" : "directory-Assignment5-RelWithDebInfo-e9e50b9674842dc6b263.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 7,
+					"source" : "Assignment5",
+					"targetIndexes" : 
+					[
+						10,
+						19
+					]
+				},
+				{
+					"build" : "Assignment6",
+					"jsonFile" : "directory-Assignment6-RelWithDebInfo-c941f5fee0becfb096cf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 8,
+					"source" : "Assignment6",
+					"targetIndexes" : 
+					[
+						12,
+						20
+					]
+				},
+				{
+					"build" : "Assignment7",
+					"jsonFile" : "directory-Assignment7-RelWithDebInfo-84afb896c533b128cb0b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 9,
+					"source" : "Assignment7",
+					"targetIndexes" : 
+					[
+						7,
+						21
+					]
+				},
+				{
+					"build" : "Assignment8",
+					"childIndexes" : 
+					[
+						11,
+						16
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8-RelWithDebInfo-36b6ada4637e6611666b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 10,
+					"source" : "Assignment8",
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"build" : "Assignment8/CGL",
+					"childIndexes" : 
+					[
+						12,
+						13,
+						15
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.CGL-RelWithDebInfo-48b55576718393d634a4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 11,
+					"source" : "Assignment8/CGL",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "Assignment8/CGL/deps/glew",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.CGL.deps.glew-RelWithDebInfo-c72b259fe431fcd61f41.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 12,
+					"source" : "Assignment8/CGL/deps/glew",
+					"targetIndexes" : 
+					[
+						5,
+						25
+					]
+				},
+				{
+					"build" : "Assignment8/CGL/deps/glfw",
+					"childIndexes" : 
+					[
+						14
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.CGL.deps.glfw-RelWithDebInfo-4433cd4ba0aa2d8cfc62.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.9"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 13,
+					"source" : "Assignment8/CGL/deps/glfw",
+					"targetIndexes" : 
+					[
+						2,
+						28
+					]
+				},
+				{
+					"build" : "Assignment8/CGL/deps/glfw/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.CGL.deps.glfw.src-RelWithDebInfo-f297ffa8b43866eddd87.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 13,
+					"projectIndex" : 13,
+					"source" : "Assignment8/CGL/deps/glfw/src",
+					"targetIndexes" : 
+					[
+						26
+					]
+				},
+				{
+					"build" : "Assignment8/CGL/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.CGL.src-RelWithDebInfo-bb1c7608860f5752f083.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 11,
+					"source" : "Assignment8/CGL/src",
+					"targetIndexes" : 
+					[
+						15
+					]
+				},
+				{
+					"build" : "Assignment8/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Assignment8.src-RelWithDebInfo-20af201279b01ccff840.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 10,
+					"source" : "Assignment8/src",
+					"targetIndexes" : 
+					[
+						27
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Games101",
+					"targetIndexes" : 
+					[
+						1,
+						23
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "freetype",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						24
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "Transformation",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						9,
+						22
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "Rasterizer1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						13,
+						16
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "Rasterizer2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4,
+						17
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "Rasterizer3",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						8,
+						18
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "BezierCurve",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						14
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "RayTracing1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						10,
+						19
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "RayTracing2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						12,
+						20
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "RayTracing3",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						7,
+						21
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						11
+					],
+					"directoryIndexes" : 
+					[
+						10,
+						16
+					],
+					"name" : "RopeSim",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						11,
+						27
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						12,
+						13
+					],
+					"directoryIndexes" : 
+					[
+						11,
+						15
+					],
+					"name" : "CGL",
+					"parentIndex" : 10,
+					"targetIndexes" : 
+					[
+						6,
+						15
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						12
+					],
+					"name" : "glew",
+					"parentIndex" : 11,
+					"targetIndexes" : 
+					[
+						5,
+						25
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13,
+						14
+					],
+					"name" : "GLFW",
+					"parentIndex" : 11,
+					"targetIndexes" : 
+					[
+						2,
+						26,
+						28
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "ALL_BUILD::@96957e95d729942f8bb0",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-cc9c07cdcc75dfb81eed.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-a0e8e67a68b775363002.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "ALL_BUILD::@15f1483fd884ddc71dbd",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-ad0bb37ac12f2a494c1f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 13
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "ALL_BUILD::@4cf95c8d6059de0fc837",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-df82227d37fd8c43be42.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "ALL_BUILD::@af5df8d6262920e7d234",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-f7685f707b179e488925.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "ALL_BUILD::@8f795ff132b8f81d6c99",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-d3b6e2f722a4dd372596.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 12
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "ALL_BUILD::@6d018863f3863b41f114",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-1c096288be9f7a02d6bc.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "ALL_BUILD::@829c8a79ce8809851e3d",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-e8b99386b30f0b0cdf23.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "ALL_BUILD::@8c63d4c1d42d4c691fdc",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-e59e7083c343a7dec11f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ALL_BUILD::@cac8ab63442c545d7ac7",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-809c8570dcfc08512fd7.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "ALL_BUILD::@6ca6ba7ac026d5e92a0d",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-bd6c44cb4912017b6c9a.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "ALL_BUILD::@ca61c067f533d31fef63",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-020a7fb7e72588eb7d32.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "ALL_BUILD::@869b79c6929d0d0d4c16",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-d30313f9e85131671ef6.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ALL_BUILD::@9553da6de54d38b36d29",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-78f5c8931fc00e15063d.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "BezierCurve::@4cf95c8d6059de0fc837",
+					"jsonFile" : "target-BezierCurve-RelWithDebInfo-b1f57ec71be893d0c03b.json",
+					"name" : "BezierCurve",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "CGL::@791c578464c3692b063c",
+					"jsonFile" : "target-CGL-RelWithDebInfo-6b0a38e566bd232a25f3.json",
+					"name" : "CGL",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Rasterizer1::@9553da6de54d38b36d29",
+					"jsonFile" : "target-Rasterizer1-RelWithDebInfo-c3f35636d4b1418471ba.json",
+					"name" : "Rasterizer1",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Rasterizer2::@af5df8d6262920e7d234",
+					"jsonFile" : "target-Rasterizer2-RelWithDebInfo-176f8e6a177d191f8707.json",
+					"name" : "Rasterizer2",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Rasterizer3::@8c63d4c1d42d4c691fdc",
+					"jsonFile" : "target-Rasterizer3-RelWithDebInfo-61a533d1432d82ddd0b9.json",
+					"name" : "Rasterizer3",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "RayTracing1::@6ca6ba7ac026d5e92a0d",
+					"jsonFile" : "target-RayTracing1-RelWithDebInfo-ddfe0f7bfd77f4e7c240.json",
+					"name" : "RayTracing1",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "RayTracing2::@869b79c6929d0d0d4c16",
+					"jsonFile" : "target-RayTracing2-RelWithDebInfo-ade225a6cccde22ca45a.json",
+					"name" : "RayTracing2",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "RayTracing3::@829c8a79ce8809851e3d",
+					"jsonFile" : "target-RayTracing3-RelWithDebInfo-eda80032da04d3e846fd.json",
+					"name" : "RayTracing3",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Transformation::@cac8ab63442c545d7ac7",
+					"jsonFile" : "target-Transformation-RelWithDebInfo-f6a8650c0b32d9b970dc.json",
+					"name" : "Transformation",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-21ef64d65ec82f8ae037.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "freetype::@96957e95d729942f8bb0",
+					"jsonFile" : "target-freetype-RelWithDebInfo-58524c1c033a94499022.json",
+					"name" : "freetype",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "glew::@8f795ff132b8f81d6c99",
+					"jsonFile" : "target-glew-RelWithDebInfo-fb64152a138094016ad4.json",
+					"name" : "glew",
+					"projectIndex" : 12
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "glfw::@0a01a371eafc1f5bb80a",
+					"jsonFile" : "target-glfw-RelWithDebInfo-8c0b8be9dddbdc859dc2.json",
+					"name" : "glfw",
+					"projectIndex" : 13
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "ropesim::@5c2da24ab43ff807f18f",
+					"jsonFile" : "target-ropesim-RelWithDebInfo-1f42c16338180d27424b.json",
+					"name" : "ropesim",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "uninstall::@15f1483fd884ddc71dbd",
+					"jsonFile" : "target-uninstall-RelWithDebInfo-9947b8ff7e28cda9604a.json",
+					"name" : "uninstall",
+					"projectIndex" : 13
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Coding/GAMES/Games101-Homework-Win/build",
+		"source" : "D:/Coding/GAMES/Games101-Homework-Win"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

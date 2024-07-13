@@ -1,0 +1,76 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "Rasterizer2::@af5df8d6262920e7d234"
+		},
+		{
+			"id" : "freetype::@96957e95d729942f8bb0"
+		},
+		{
+			"id" : "Transformation::@cac8ab63442c545d7ac7"
+		},
+		{
+			"id" : "BezierCurve::@4cf95c8d6059de0fc837"
+		},
+		{
+			"id" : "Rasterizer3::@8c63d4c1d42d4c691fdc"
+		},
+		{
+			"id" : "Rasterizer1::@9553da6de54d38b36d29"
+		},
+		{
+			"id" : "glew::@8f795ff132b8f81d6c99"
+		},
+		{
+			"id" : "RayTracing1::@6ca6ba7ac026d5e92a0d"
+		},
+		{
+			"id" : "RayTracing2::@869b79c6929d0d0d4c16"
+		},
+		{
+			"id" : "RayTracing3::@829c8a79ce8809851e3d"
+		},
+		{
+			"id" : "glfw::@0a01a371eafc1f5bb80a"
+		},
+		{
+			"id" : "ropesim::@5c2da24ab43ff807f18f"
+		},
+		{
+			"id" : "CGL::@791c578464c3692b063c"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "CMakePredefinedTargets"
+	},
+	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

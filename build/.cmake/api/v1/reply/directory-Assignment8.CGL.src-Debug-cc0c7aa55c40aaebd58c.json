@@ -1,0 +1,85 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"Assignment8/CGL/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 158,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 164,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"Assignment8/CGL/src/Debug/CGL.lib"
+			],
+			"targetId" : "CGL::@791c578464c3692b063c",
+			"targetIndex" : 15,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "CGL::@791c578464c3692b063c",
+				"index" : 15
+			},
+			"destination" : "lib",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/CGL",
+			"paths" : 
+			[
+				"Assignment8/CGL/src/CGL.h",
+				"Assignment8/CGL/src/vector2D.h",
+				"Assignment8/CGL/src/vector3D.h",
+				"Assignment8/CGL/src/vector4D.h",
+				"Assignment8/CGL/src/matrix3x3.h",
+				"Assignment8/CGL/src/matrix4x4.h",
+				"Assignment8/CGL/src/quaternion.h",
+				"Assignment8/CGL/src/complex.h",
+				"Assignment8/CGL/src/color.h",
+				"Assignment8/CGL/src/osdtext.h",
+				"Assignment8/CGL/src/viewer.h",
+				"Assignment8/CGL/src/base64.h",
+				"Assignment8/CGL/src/tinyxml2.h",
+				"Assignment8/CGL/src/renderer.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Assignment8/CGL/src",
+		"source" : "Assignment8/CGL/src"
+	}
+}

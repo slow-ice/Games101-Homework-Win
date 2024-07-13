@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Coding\GAMES\Games101-Homework-Win\build\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Coding\GAMES\Games101-Homework-Win\build\Assignment4\Debug\BezierCurve.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Coding\GAMES\Games101-Homework-Win\build\Assignment1\Debug\Rasterizer1.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Coding\GAMES\Games101-Homework-Win\build\Assignment2\Debug\Rasterizer2.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Coding\GAMES\Games101-Homework-Win\build\Assignment3\Debug\Rasterizer3.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Coding\GAMES\Games101-Homework-Win\build\Assignment5\Debug\RayTracing1.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Coding\GAMES\Games101-Homework-Win\build\Assignment6\Debug\RayTracing2.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Coding\GAMES\Games101-Homework-Win\build\Assignment7\Debug\RayTracing3.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Coding\GAMES\Games101-Homework-Win\build\Assignment0\Debug\Transformation.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Coding\GAMES\Games101-Homework-Win\build\Assignment8\Debug\ropesim.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Coding\GAMES\Games101-Homework-Win\build\x64\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

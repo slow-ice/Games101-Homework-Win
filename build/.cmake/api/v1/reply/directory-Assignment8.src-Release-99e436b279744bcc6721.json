@@ -1,0 +1,56 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"Assignment8/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 78,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "D:/Coding/GAMES/Games101-Homework-Win/Assignment8",
+			"paths" : 
+			[
+				"Assignment8/Release/ropesim.exe"
+			],
+			"targetId" : "ropesim::@5c2da24ab43ff807f18f",
+			"targetIndex" : 27,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "ropesim::@5c2da24ab43ff807f18f",
+				"index" : 27
+			},
+			"destination" : "D:/Coding/GAMES/Games101-Homework-Win/Assignment8",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Assignment8/src",
+		"source" : "Assignment8/src"
+	}
+}

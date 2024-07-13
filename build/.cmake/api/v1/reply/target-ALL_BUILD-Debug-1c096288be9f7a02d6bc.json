@@ -1,0 +1,46 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"Assignment8/CGL/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "glew::@8f795ff132b8f81d6c99"
+		},
+		{
+			"id" : "glfw::@0a01a371eafc1f5bb80a"
+		},
+		{
+			"id" : "CGL::@791c578464c3692b063c"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "CMakePredefinedTargets"
+	},
+	"id" : "ALL_BUILD::@6d018863f3863b41f114",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : "Assignment8/CGL",
+		"source" : "Assignment8/CGL"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
